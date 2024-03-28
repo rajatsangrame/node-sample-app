@@ -1,0 +1,22 @@
+{
+    "_id": {
+        "$oid": "6601dd8617a1ec24350f5ba4"
+    },
+    "streams": [
+        {
+            "_id": {
+                "$oid": "6601dd1417a1ec24350f5ba1"
+            },
+            "type": "ott",
+            "balance": 50000
+        },
+        {
+            "_id": {
+                "$oid": "6601dd8017a1ec24350f5ba2"
+            },
+            "type": "tv",
+            "balance": 50000
+        }
+    ],
+    "budget": 100000
+}
